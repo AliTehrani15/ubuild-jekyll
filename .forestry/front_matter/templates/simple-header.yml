@@ -10,3 +10,4 @@ fields:
 - type: file
   label: Logo
   name: logo
+  default: "/uploads/2018/06/21/drone-photo.jpeg"
